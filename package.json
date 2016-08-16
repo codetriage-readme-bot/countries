@@ -1,0 +1,19 @@
+{
+  "name": "countrylist",
+  "version": "1.0.0",
+  "description": "List of countries",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/public-data/countries.git"
+  },
+  "keywords": [
+    "public-data",
+    "countries"
+  ],
+  "author": "Mark Topper <mark@ulties.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/public-data/countries/issues"
+  },
+  "homepage": "https://github.com/public-data/countries#readme"
+}

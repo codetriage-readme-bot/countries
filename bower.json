@@ -1,0 +1,21 @@
+{
+  "name": "countrylist",
+  "description": "List of countries",
+  "main": "",
+  "authors": [
+    "Mark Topper <mark@ulties.com>"
+  ],
+  "license": "UNLICENSED",
+  "keywords": [
+    "public-data",
+    "countries"
+  ],
+  "homepage": "https://github.com/public-data/countries",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "public-data/countries",
+  "description": "List of countries",
+  "keywords": ["public-data", "data", "countries"],
+  "type": "package"
+}
