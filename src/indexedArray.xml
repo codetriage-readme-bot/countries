@@ -1,975 +1,975 @@
 <?xml version="1.0"?>
 <countries>
-  <AF>
+  <af>
     <name>Afghanistan</name>
-    <code>AF</code>
-  </AF>
-  <AX>
+    <code>af</code>
+  </af>
+  <ax>
     <name>&#xC5;land Islands</name>
-    <code>AX</code>
-  </AX>
-  <AL>
+    <code>ax</code>
+  </ax>
+  <al>
     <name>Albania</name>
-    <code>AL</code>
-  </AL>
-  <DZ>
+    <code>al</code>
+  </al>
+  <dz>
     <name>Algeria</name>
-    <code>DZ</code>
-  </DZ>
-  <AS>
+    <code>dz</code>
+  </dz>
+  <as>
     <name>American Samoa</name>
-    <code>AS</code>
-  </AS>
-  <AD>
+    <code>as</code>
+  </as>
+  <ad>
     <name>AndorrA</name>
-    <code>AD</code>
-  </AD>
-  <AO>
+    <code>ad</code>
+  </ad>
+  <ao>
     <name>Angola</name>
-    <code>AO</code>
-  </AO>
-  <AI>
+    <code>ao</code>
+  </ao>
+  <ai>
     <name>Anguilla</name>
-    <code>AI</code>
-  </AI>
-  <AQ>
+    <code>ai</code>
+  </ai>
+  <aq>
     <name>Antarctica</name>
-    <code>AQ</code>
-  </AQ>
-  <AG>
+    <code>aq</code>
+  </aq>
+  <ag>
     <name>Antigua and Barbuda</name>
-    <code>AG</code>
-  </AG>
-  <AR>
+    <code>ag</code>
+  </ag>
+  <ar>
     <name>Argentina</name>
-    <code>AR</code>
-  </AR>
-  <AM>
+    <code>ar</code>
+  </ar>
+  <am>
     <name>Armenia</name>
-    <code>AM</code>
-  </AM>
-  <AW>
+    <code>am</code>
+  </am>
+  <aw>
     <name>Aruba</name>
-    <code>AW</code>
-  </AW>
-  <AU>
+    <code>aw</code>
+  </aw>
+  <au>
     <name>Australia</name>
-    <code>AU</code>
-  </AU>
-  <AT>
+    <code>au</code>
+  </au>
+  <at>
     <name>Austria</name>
-    <code>AT</code>
-  </AT>
-  <AZ>
+    <code>at</code>
+  </at>
+  <az>
     <name>Azerbaijan</name>
-    <code>AZ</code>
-  </AZ>
-  <BS>
+    <code>az</code>
+  </az>
+  <bs>
     <name>Bahamas</name>
-    <code>BS</code>
-  </BS>
-  <BH>
+    <code>bs</code>
+  </bs>
+  <bh>
     <name>Bahrain</name>
-    <code>BH</code>
-  </BH>
-  <BD>
+    <code>bh</code>
+  </bh>
+  <bd>
     <name>Bangladesh</name>
-    <code>BD</code>
-  </BD>
-  <BB>
+    <code>bd</code>
+  </bd>
+  <bb>
     <name>Barbados</name>
-    <code>BB</code>
-  </BB>
-  <BY>
+    <code>bb</code>
+  </bb>
+  <by>
     <name>Belarus</name>
-    <code>BY</code>
-  </BY>
-  <BE>
+    <code>by</code>
+  </by>
+  <be>
     <name>Belgium</name>
-    <code>BE</code>
-  </BE>
-  <BZ>
+    <code>be</code>
+  </be>
+  <bz>
     <name>Belize</name>
-    <code>BZ</code>
-  </BZ>
-  <BJ>
+    <code>bz</code>
+  </bz>
+  <bj>
     <name>Benin</name>
-    <code>BJ</code>
-  </BJ>
-  <BM>
+    <code>bj</code>
+  </bj>
+  <bm>
     <name>Bermuda</name>
-    <code>BM</code>
-  </BM>
-  <BT>
+    <code>bm</code>
+  </bm>
+  <bt>
     <name>Bhutan</name>
-    <code>BT</code>
-  </BT>
-  <BO>
+    <code>bt</code>
+  </bt>
+  <bo>
     <name>Bolivia</name>
-    <code>BO</code>
-  </BO>
-  <BA>
+    <code>bo</code>
+  </bo>
+  <ba>
     <name>Bosnia and Herzegovina</name>
-    <code>BA</code>
-  </BA>
-  <BW>
+    <code>ba</code>
+  </ba>
+  <bw>
     <name>Botswana</name>
-    <code>BW</code>
-  </BW>
-  <BV>
+    <code>bw</code>
+  </bw>
+  <bv>
     <name>Bouvet Island</name>
-    <code>BV</code>
-  </BV>
-  <BR>
+    <code>bv</code>
+  </bv>
+  <br>
     <name>Brazil</name>
-    <code>BR</code>
-  </BR>
-  <IO>
+    <code>br</code>
+  </br>
+  <io>
     <name>British Indian Ocean Territory</name>
-    <code>IO</code>
-  </IO>
-  <BN>
+    <code>io</code>
+  </io>
+  <bn>
     <name>Brunei Darussalam</name>
-    <code>BN</code>
-  </BN>
-  <BG>
+    <code>bn</code>
+  </bn>
+  <bg>
     <name>Bulgaria</name>
-    <code>BG</code>
-  </BG>
-  <BF>
+    <code>bg</code>
+  </bg>
+  <bf>
     <name>Burkina Faso</name>
-    <code>BF</code>
-  </BF>
-  <BI>
+    <code>bf</code>
+  </bf>
+  <bi>
     <name>Burundi</name>
-    <code>BI</code>
-  </BI>
-  <KH>
+    <code>bi</code>
+  </bi>
+  <kh>
     <name>Cambodia</name>
-    <code>KH</code>
-  </KH>
-  <CM>
+    <code>kh</code>
+  </kh>
+  <cm>
     <name>Cameroon</name>
-    <code>CM</code>
-  </CM>
-  <CA>
+    <code>cm</code>
+  </cm>
+  <ca>
     <name>Canada</name>
-    <code>CA</code>
-  </CA>
-  <CV>
+    <code>ca</code>
+  </ca>
+  <cv>
     <name>Cape Verde</name>
-    <code>CV</code>
-  </CV>
-  <KY>
+    <code>cv</code>
+  </cv>
+  <ky>
     <name>Cayman Islands</name>
-    <code>KY</code>
-  </KY>
-  <CF>
+    <code>ky</code>
+  </ky>
+  <cf>
     <name>Central African Republic</name>
-    <code>CF</code>
-  </CF>
-  <TD>
+    <code>cf</code>
+  </cf>
+  <td>
     <name>Chad</name>
-    <code>TD</code>
-  </TD>
-  <CL>
+    <code>td</code>
+  </td>
+  <cl>
     <name>Chile</name>
-    <code>CL</code>
-  </CL>
-  <CN>
+    <code>cl</code>
+  </cl>
+  <cn>
     <name>China</name>
-    <code>CN</code>
-  </CN>
-  <CX>
+    <code>cn</code>
+  </cn>
+  <cx>
     <name>Christmas Island</name>
-    <code>CX</code>
-  </CX>
-  <CC>
+    <code>cx</code>
+  </cx>
+  <cc>
     <name>Cocos (Keeling) Islands</name>
-    <code>CC</code>
-  </CC>
-  <CO>
+    <code>cc</code>
+  </cc>
+  <co>
     <name>Colombia</name>
-    <code>CO</code>
-  </CO>
-  <KM>
+    <code>co</code>
+  </co>
+  <km>
     <name>Comoros</name>
-    <code>KM</code>
-  </KM>
-  <CG>
+    <code>km</code>
+  </km>
+  <cg>
     <name>Congo</name>
-    <code>CG</code>
-  </CG>
-  <CD>
+    <code>cg</code>
+  </cg>
+  <cd>
     <name>Congo, The Democratic Republic of the</name>
-    <code>CD</code>
-  </CD>
-  <CK>
+    <code>cd</code>
+  </cd>
+  <ck>
     <name>Cook Islands</name>
-    <code>CK</code>
-  </CK>
-  <CR>
+    <code>ck</code>
+  </ck>
+  <cr>
     <name>Costa Rica</name>
-    <code>CR</code>
-  </CR>
-  <CI>
+    <code>cr</code>
+  </cr>
+  <ci>
     <name>Cote D"Ivoire</name>
-    <code>CI</code>
-  </CI>
-  <HR>
+    <code>ci</code>
+  </ci>
+  <hr>
     <name>Croatia</name>
-    <code>HR</code>
-  </HR>
-  <CU>
+    <code>hr</code>
+  </hr>
+  <cu>
     <name>Cuba</name>
-    <code>CU</code>
-  </CU>
-  <CY>
+    <code>cu</code>
+  </cu>
+  <cy>
     <name>Cyprus</name>
-    <code>CY</code>
-  </CY>
-  <CZ>
+    <code>cy</code>
+  </cy>
+  <cz>
     <name>Czech Republic</name>
-    <code>CZ</code>
-  </CZ>
-  <DK>
+    <code>cz</code>
+  </cz>
+  <dk>
     <name>Denmark</name>
-    <code>DK</code>
-  </DK>
-  <DJ>
+    <code>dk</code>
+  </dk>
+  <dj>
     <name>Djibouti</name>
-    <code>DJ</code>
-  </DJ>
-  <DM>
+    <code>dj</code>
+  </dj>
+  <dm>
     <name>Dominica</name>
-    <code>DM</code>
-  </DM>
-  <DO>
+    <code>dm</code>
+  </dm>
+  <do>
     <name>Dominican Republic</name>
-    <code>DO</code>
-  </DO>
-  <EC>
+    <code>do</code>
+  </do>
+  <ec>
     <name>Ecuador</name>
-    <code>EC</code>
-  </EC>
-  <EG>
+    <code>ec</code>
+  </ec>
+  <eg>
     <name>Egypt</name>
-    <code>EG</code>
-  </EG>
-  <SV>
+    <code>eg</code>
+  </eg>
+  <sv>
     <name>El Salvador</name>
-    <code>SV</code>
-  </SV>
-  <GQ>
+    <code>sv</code>
+  </sv>
+  <gq>
     <name>Equatorial Guinea</name>
-    <code>GQ</code>
-  </GQ>
-  <ER>
+    <code>gq</code>
+  </gq>
+  <er>
     <name>Eritrea</name>
-    <code>ER</code>
-  </ER>
-  <EE>
+    <code>er</code>
+  </er>
+  <ee>
     <name>Estonia</name>
-    <code>EE</code>
-  </EE>
-  <ET>
+    <code>ee</code>
+  </ee>
+  <et>
     <name>Ethiopia</name>
-    <code>ET</code>
-  </ET>
-  <FK>
+    <code>et</code>
+  </et>
+  <fk>
     <name>Falkland Islands (Malvinas)</name>
-    <code>FK</code>
-  </FK>
-  <FO>
+    <code>fk</code>
+  </fk>
+  <fo>
     <name>Faroe Islands</name>
-    <code>FO</code>
-  </FO>
-  <FJ>
+    <code>fo</code>
+  </fo>
+  <fj>
     <name>Fiji</name>
-    <code>FJ</code>
-  </FJ>
-  <FI>
+    <code>fj</code>
+  </fj>
+  <fi>
     <name>Finland</name>
-    <code>FI</code>
-  </FI>
-  <FR>
+    <code>fi</code>
+  </fi>
+  <fr>
     <name>France</name>
-    <code>FR</code>
-  </FR>
-  <GF>
+    <code>fr</code>
+  </fr>
+  <gf>
     <name>French Guiana</name>
-    <code>GF</code>
-  </GF>
-  <PF>
+    <code>gf</code>
+  </gf>
+  <pf>
     <name>French Polynesia</name>
-    <code>PF</code>
-  </PF>
-  <TF>
+    <code>pf</code>
+  </pf>
+  <tf>
     <name>French Southern Territories</name>
-    <code>TF</code>
-  </TF>
-  <GA>
+    <code>tf</code>
+  </tf>
+  <ga>
     <name>Gabon</name>
-    <code>GA</code>
-  </GA>
-  <GM>
+    <code>ga</code>
+  </ga>
+  <gm>
     <name>Gambia</name>
-    <code>GM</code>
-  </GM>
-  <GE>
+    <code>gm</code>
+  </gm>
+  <ge>
     <name>Georgia</name>
-    <code>GE</code>
-  </GE>
-  <DE>
+    <code>ge</code>
+  </ge>
+  <de>
     <name>Germany</name>
-    <code>DE</code>
-  </DE>
-  <GH>
+    <code>de</code>
+  </de>
+  <gh>
     <name>Ghana</name>
-    <code>GH</code>
-  </GH>
-  <GI>
+    <code>gh</code>
+  </gh>
+  <gi>
     <name>Gibraltar</name>
-    <code>GI</code>
-  </GI>
-  <GR>
+    <code>gi</code>
+  </gi>
+  <gr>
     <name>Greece</name>
-    <code>GR</code>
-  </GR>
-  <GL>
+    <code>gr</code>
+  </gr>
+  <gl>
     <name>Greenland</name>
-    <code>GL</code>
-  </GL>
-  <GD>
+    <code>gl</code>
+  </gl>
+  <gd>
     <name>Grenada</name>
-    <code>GD</code>
-  </GD>
-  <GP>
+    <code>gd</code>
+  </gd>
+  <gp>
     <name>Guadeloupe</name>
-    <code>GP</code>
-  </GP>
-  <GU>
+    <code>gp</code>
+  </gp>
+  <gu>
     <name>Guam</name>
-    <code>GU</code>
-  </GU>
-  <GT>
+    <code>gu</code>
+  </gu>
+  <gt>
     <name>Guatemala</name>
-    <code>GT</code>
-  </GT>
-  <GG>
+    <code>gt</code>
+  </gt>
+  <gg>
     <name>Guernsey</name>
-    <code>GG</code>
-  </GG>
-  <GN>
+    <code>gg</code>
+  </gg>
+  <gn>
     <name>Guinea</name>
-    <code>GN</code>
-  </GN>
-  <GW>
+    <code>gn</code>
+  </gn>
+  <gw>
     <name>Guinea-Bissau</name>
-    <code>GW</code>
-  </GW>
-  <GY>
+    <code>gw</code>
+  </gw>
+  <gy>
     <name>Guyana</name>
-    <code>GY</code>
-  </GY>
-  <HT>
+    <code>gy</code>
+  </gy>
+  <ht>
     <name>Haiti</name>
-    <code>HT</code>
-  </HT>
-  <HM>
+    <code>ht</code>
+  </ht>
+  <hm>
     <name>Heard Island and Mcdonald Islands</name>
-    <code>HM</code>
-  </HM>
-  <VA>
+    <code>hm</code>
+  </hm>
+  <va>
     <name>Holy See (Vatican City State)</name>
-    <code>VA</code>
-  </VA>
-  <HN>
+    <code>va</code>
+  </va>
+  <hn>
     <name>Honduras</name>
-    <code>HN</code>
-  </HN>
-  <HK>
+    <code>hn</code>
+  </hn>
+  <hk>
     <name>Hong Kong</name>
-    <code>HK</code>
-  </HK>
-  <HU>
+    <code>hk</code>
+  </hk>
+  <hu>
     <name>Hungary</name>
-    <code>HU</code>
-  </HU>
-  <IS>
+    <code>hu</code>
+  </hu>
+  <is>
     <name>Iceland</name>
-    <code>IS</code>
-  </IS>
-  <IN>
+    <code>is</code>
+  </is>
+  <in>
     <name>India</name>
-    <code>IN</code>
-  </IN>
-  <ID>
+    <code>in</code>
+  </in>
+  <id>
     <name>Indonesia</name>
-    <code>ID</code>
-  </ID>
-  <IR>
+    <code>id</code>
+  </id>
+  <ir>
     <name>Iran, Islamic Republic Of</name>
-    <code>IR</code>
-  </IR>
-  <IQ>
+    <code>ir</code>
+  </ir>
+  <iq>
     <name>Iraq</name>
-    <code>IQ</code>
-  </IQ>
-  <IE>
+    <code>iq</code>
+  </iq>
+  <ie>
     <name>Ireland</name>
-    <code>IE</code>
-  </IE>
-  <IM>
+    <code>ie</code>
+  </ie>
+  <im>
     <name>Isle of Man</name>
-    <code>IM</code>
-  </IM>
-  <IL>
+    <code>im</code>
+  </im>
+  <il>
     <name>Israel</name>
-    <code>IL</code>
-  </IL>
-  <IT>
+    <code>il</code>
+  </il>
+  <it>
     <name>Italy</name>
-    <code>IT</code>
-  </IT>
-  <JM>
+    <code>it</code>
+  </it>
+  <jm>
     <name>Jamaica</name>
-    <code>JM</code>
-  </JM>
-  <JP>
+    <code>jm</code>
+  </jm>
+  <jp>
     <name>Japan</name>
-    <code>JP</code>
-  </JP>
-  <JE>
+    <code>jp</code>
+  </jp>
+  <je>
     <name>Jersey</name>
-    <code>JE</code>
-  </JE>
-  <JO>
+    <code>je</code>
+  </je>
+  <jo>
     <name>Jordan</name>
-    <code>JO</code>
-  </JO>
-  <KZ>
+    <code>jo</code>
+  </jo>
+  <kz>
     <name>Kazakhstan</name>
-    <code>KZ</code>
-  </KZ>
-  <KE>
+    <code>kz</code>
+  </kz>
+  <ke>
     <name>Kenya</name>
-    <code>KE</code>
-  </KE>
-  <KI>
+    <code>ke</code>
+  </ke>
+  <ki>
     <name>Kiribati</name>
-    <code>KI</code>
-  </KI>
-  <KP>
+    <code>ki</code>
+  </ki>
+  <kp>
     <name>Korea, Democratic People"S Republic of</name>
-    <code>KP</code>
-  </KP>
-  <KR>
+    <code>kp</code>
+  </kp>
+  <kr>
     <name>Korea, Republic of</name>
-    <code>KR</code>
-  </KR>
-  <KW>
+    <code>kr</code>
+  </kr>
+  <kw>
     <name>Kuwait</name>
-    <code>KW</code>
-  </KW>
-  <KG>
+    <code>kw</code>
+  </kw>
+  <kg>
     <name>Kyrgyzstan</name>
-    <code>KG</code>
-  </KG>
-  <LA>
+    <code>kg</code>
+  </kg>
+  <la>
     <name>Lao People"S Democratic Republic</name>
-    <code>LA</code>
-  </LA>
-  <LV>
+    <code>la</code>
+  </la>
+  <lv>
     <name>Latvia</name>
-    <code>LV</code>
-  </LV>
-  <LB>
+    <code>lv</code>
+  </lv>
+  <lb>
     <name>Lebanon</name>
-    <code>LB</code>
-  </LB>
-  <LS>
+    <code>lb</code>
+  </lb>
+  <ls>
     <name>Lesotho</name>
-    <code>LS</code>
-  </LS>
-  <LR>
+    <code>ls</code>
+  </ls>
+  <lr>
     <name>Liberia</name>
-    <code>LR</code>
-  </LR>
-  <LY>
+    <code>lr</code>
+  </lr>
+  <ly>
     <name>Libyan Arab Jamahiriya</name>
-    <code>LY</code>
-  </LY>
-  <LI>
+    <code>ly</code>
+  </ly>
+  <li>
     <name>Liechtenstein</name>
-    <code>LI</code>
-  </LI>
-  <LT>
+    <code>li</code>
+  </li>
+  <lt>
     <name>Lithuania</name>
-    <code>LT</code>
-  </LT>
-  <LU>
+    <code>lt</code>
+  </lt>
+  <lu>
     <name>Luxembourg</name>
-    <code>LU</code>
-  </LU>
-  <MO>
+    <code>lu</code>
+  </lu>
+  <mo>
     <name>Macao</name>
-    <code>MO</code>
-  </MO>
-  <MK>
+    <code>mo</code>
+  </mo>
+  <mk>
     <name>Macedonia, The Former Yugoslav Republic of</name>
-    <code>MK</code>
-  </MK>
-  <MG>
+    <code>mk</code>
+  </mk>
+  <mg>
     <name>Madagascar</name>
-    <code>MG</code>
-  </MG>
-  <MW>
+    <code>mg</code>
+  </mg>
+  <mw>
     <name>Malawi</name>
-    <code>MW</code>
-  </MW>
-  <MY>
+    <code>mw</code>
+  </mw>
+  <my>
     <name>Malaysia</name>
-    <code>MY</code>
-  </MY>
-  <MV>
+    <code>my</code>
+  </my>
+  <mv>
     <name>Maldives</name>
-    <code>MV</code>
-  </MV>
-  <ML>
+    <code>mv</code>
+  </mv>
+  <ml>
     <name>Mali</name>
-    <code>ML</code>
-  </ML>
-  <MT>
+    <code>ml</code>
+  </ml>
+  <mt>
     <name>Malta</name>
-    <code>MT</code>
-  </MT>
-  <MH>
+    <code>mt</code>
+  </mt>
+  <mh>
     <name>Marshall Islands</name>
-    <code>MH</code>
-  </MH>
-  <MQ>
+    <code>mh</code>
+  </mh>
+  <mq>
     <name>Martinique</name>
-    <code>MQ</code>
-  </MQ>
-  <MR>
+    <code>mq</code>
+  </mq>
+  <mr>
     <name>Mauritania</name>
-    <code>MR</code>
-  </MR>
-  <MU>
+    <code>mr</code>
+  </mr>
+  <mu>
     <name>Mauritius</name>
-    <code>MU</code>
-  </MU>
-  <YT>
+    <code>mu</code>
+  </mu>
+  <yt>
     <name>Mayotte</name>
-    <code>YT</code>
-  </YT>
-  <MX>
+    <code>yt</code>
+  </yt>
+  <mx>
     <name>Mexico</name>
-    <code>MX</code>
-  </MX>
-  <FM>
+    <code>mx</code>
+  </mx>
+  <fm>
     <name>Micronesia, Federated States of</name>
-    <code>FM</code>
-  </FM>
-  <MD>
+    <code>fm</code>
+  </fm>
+  <md>
     <name>Moldova, Republic of</name>
-    <code>MD</code>
-  </MD>
-  <MC>
+    <code>md</code>
+  </md>
+  <mc>
     <name>Monaco</name>
-    <code>MC</code>
-  </MC>
-  <MN>
+    <code>mc</code>
+  </mc>
+  <mn>
     <name>Mongolia</name>
-    <code>MN</code>
-  </MN>
-  <MS>
+    <code>mn</code>
+  </mn>
+  <ms>
     <name>Montserrat</name>
-    <code>MS</code>
-  </MS>
-  <MA>
+    <code>ms</code>
+  </ms>
+  <ma>
     <name>Morocco</name>
-    <code>MA</code>
-  </MA>
-  <MZ>
+    <code>ma</code>
+  </ma>
+  <mz>
     <name>Mozambique</name>
-    <code>MZ</code>
-  </MZ>
-  <MM>
+    <code>mz</code>
+  </mz>
+  <mm>
     <name>Myanmar</name>
-    <code>MM</code>
-  </MM>
-  <NA>
+    <code>mm</code>
+  </mm>
+  <na>
     <name>Namibia</name>
-    <code>NA</code>
-  </NA>
-  <NR>
+    <code>na</code>
+  </na>
+  <nr>
     <name>Nauru</name>
-    <code>NR</code>
-  </NR>
-  <NP>
+    <code>nr</code>
+  </nr>
+  <np>
     <name>Nepal</name>
-    <code>NP</code>
-  </NP>
-  <NL>
+    <code>np</code>
+  </np>
+  <nl>
     <name>Netherlands</name>
-    <code>NL</code>
-  </NL>
-  <AN>
+    <code>nl</code>
+  </nl>
+  <an>
     <name>Netherlands Antilles</name>
-    <code>AN</code>
-  </AN>
-  <NC>
+    <code>an</code>
+  </an>
+  <nc>
     <name>New Caledonia</name>
-    <code>NC</code>
-  </NC>
-  <NZ>
+    <code>nc</code>
+  </nc>
+  <nz>
     <name>New Zealand</name>
-    <code>NZ</code>
-  </NZ>
-  <NI>
+    <code>nz</code>
+  </nz>
+  <ni>
     <name>Nicaragua</name>
-    <code>NI</code>
-  </NI>
-  <NE>
+    <code>ni</code>
+  </ni>
+  <ne>
     <name>Niger</name>
-    <code>NE</code>
-  </NE>
-  <NG>
+    <code>ne</code>
+  </ne>
+  <ng>
     <name>Nigeria</name>
-    <code>NG</code>
-  </NG>
-  <NU>
+    <code>ng</code>
+  </ng>
+  <nu>
     <name>Niue</name>
-    <code>NU</code>
-  </NU>
-  <NF>
+    <code>nu</code>
+  </nu>
+  <nf>
     <name>Norfolk Island</name>
-    <code>NF</code>
-  </NF>
-  <MP>
+    <code>nf</code>
+  </nf>
+  <mp>
     <name>Northern Mariana Islands</name>
-    <code>MP</code>
-  </MP>
-  <NO>
+    <code>mp</code>
+  </mp>
+  <no>
     <name>Norway</name>
-    <code>NO</code>
-  </NO>
-  <OM>
+    <code>no</code>
+  </no>
+  <om>
     <name>Oman</name>
-    <code>OM</code>
-  </OM>
-  <PK>
+    <code>om</code>
+  </om>
+  <pk>
     <name>Pakistan</name>
-    <code>PK</code>
-  </PK>
-  <PW>
+    <code>pk</code>
+  </pk>
+  <pw>
     <name>Palau</name>
-    <code>PW</code>
-  </PW>
-  <PS>
+    <code>pw</code>
+  </pw>
+  <ps>
     <name>Palestinian Territory, Occupied</name>
-    <code>PS</code>
-  </PS>
-  <PA>
+    <code>ps</code>
+  </ps>
+  <pa>
     <name>Panama</name>
-    <code>PA</code>
-  </PA>
-  <PG>
+    <code>pa</code>
+  </pa>
+  <pg>
     <name>Papua New Guinea</name>
-    <code>PG</code>
-  </PG>
-  <PY>
+    <code>pg</code>
+  </pg>
+  <py>
     <name>Paraguay</name>
-    <code>PY</code>
-  </PY>
-  <PE>
+    <code>py</code>
+  </py>
+  <pe>
     <name>Peru</name>
-    <code>PE</code>
-  </PE>
-  <PH>
+    <code>pe</code>
+  </pe>
+  <ph>
     <name>Philippines</name>
-    <code>PH</code>
-  </PH>
-  <PN>
+    <code>ph</code>
+  </ph>
+  <pn>
     <name>Pitcairn</name>
-    <code>PN</code>
-  </PN>
-  <PL>
+    <code>pn</code>
+  </pn>
+  <pl>
     <name>Poland</name>
-    <code>PL</code>
-  </PL>
-  <PT>
+    <code>pl</code>
+  </pl>
+  <pt>
     <name>Portugal</name>
-    <code>PT</code>
-  </PT>
-  <PR>
+    <code>pt</code>
+  </pt>
+  <pr>
     <name>Puerto Rico</name>
-    <code>PR</code>
-  </PR>
-  <QA>
+    <code>pr</code>
+  </pr>
+  <qa>
     <name>Qatar</name>
-    <code>QA</code>
-  </QA>
-  <RE>
+    <code>qa</code>
+  </qa>
+  <re>
     <name>Reunion</name>
-    <code>RE</code>
-  </RE>
-  <RO>
+    <code>re</code>
+  </re>
+  <ro>
     <name>Romania</name>
-    <code>RO</code>
-  </RO>
-  <RU>
+    <code>ro</code>
+  </ro>
+  <ru>
     <name>Russian Federation</name>
-    <code>RU</code>
-  </RU>
-  <RW>
+    <code>ru</code>
+  </ru>
+  <rw>
     <name>RWANDA</name>
-    <code>RW</code>
-  </RW>
-  <SH>
+    <code>rw</code>
+  </rw>
+  <sh>
     <name>Saint Helena</name>
-    <code>SH</code>
-  </SH>
-  <KN>
+    <code>sh</code>
+  </sh>
+  <kn>
     <name>Saint Kitts and Nevis</name>
-    <code>KN</code>
-  </KN>
-  <LC>
+    <code>kn</code>
+  </kn>
+  <lc>
     <name>Saint Lucia</name>
-    <code>LC</code>
-  </LC>
-  <PM>
+    <code>lc</code>
+  </lc>
+  <pm>
     <name>Saint Pierre and Miquelon</name>
-    <code>PM</code>
-  </PM>
-  <VC>
+    <code>pm</code>
+  </pm>
+  <vc>
     <name>Saint Vincent and the Grenadines</name>
-    <code>VC</code>
-  </VC>
-  <WS>
+    <code>vc</code>
+  </vc>
+  <ws>
     <name>Samoa</name>
-    <code>WS</code>
-  </WS>
-  <SM>
+    <code>ws</code>
+  </ws>
+  <sm>
     <name>San Marino</name>
-    <code>SM</code>
-  </SM>
-  <ST>
+    <code>sm</code>
+  </sm>
+  <st>
     <name>Sao Tome and Principe</name>
-    <code>ST</code>
-  </ST>
-  <SA>
+    <code>st</code>
+  </st>
+  <sa>
     <name>Saudi Arabia</name>
-    <code>SA</code>
-  </SA>
-  <SN>
+    <code>sa</code>
+  </sa>
+  <sn>
     <name>Senegal</name>
-    <code>SN</code>
-  </SN>
-  <CS>
+    <code>sn</code>
+  </sn>
+  <cs>
     <name>Serbia and Montenegro</name>
-    <code>CS</code>
-  </CS>
-  <SC>
+    <code>cs</code>
+  </cs>
+  <sc>
     <name>Seychelles</name>
-    <code>SC</code>
-  </SC>
-  <SL>
+    <code>sc</code>
+  </sc>
+  <sl>
     <name>Sierra Leone</name>
-    <code>SL</code>
-  </SL>
-  <SG>
+    <code>sl</code>
+  </sl>
+  <sg>
     <name>Singapore</name>
-    <code>SG</code>
-  </SG>
-  <SK>
+    <code>sg</code>
+  </sg>
+  <sk>
     <name>Slovakia</name>
-    <code>SK</code>
-  </SK>
-  <SI>
+    <code>sk</code>
+  </sk>
+  <si>
     <name>Slovenia</name>
-    <code>SI</code>
-  </SI>
-  <SB>
+    <code>si</code>
+  </si>
+  <sb>
     <name>Solomon Islands</name>
-    <code>SB</code>
-  </SB>
-  <SO>
+    <code>sb</code>
+  </sb>
+  <so>
     <name>Somalia</name>
-    <code>SO</code>
-  </SO>
-  <ZA>
+    <code>so</code>
+  </so>
+  <za>
     <name>South Africa</name>
-    <code>ZA</code>
-  </ZA>
-  <GS>
+    <code>za</code>
+  </za>
+  <gs>
     <name>South Georgia and the South Sandwich Islands</name>
-    <code>GS</code>
-  </GS>
-  <ES>
+    <code>gs</code>
+  </gs>
+  <es>
     <name>Spain</name>
-    <code>ES</code>
-  </ES>
-  <LK>
+    <code>es</code>
+  </es>
+  <lk>
     <name>Sri Lanka</name>
-    <code>LK</code>
-  </LK>
-  <SD>
+    <code>lk</code>
+  </lk>
+  <sd>
     <name>Sudan</name>
-    <code>SD</code>
-  </SD>
-  <SR>
+    <code>sd</code>
+  </sd>
+  <sr>
     <name>Suriname</name>
-    <code>SR</code>
-  </SR>
-  <SJ>
+    <code>sr</code>
+  </sr>
+  <sj>
     <name>Svalbard and Jan Mayen</name>
-    <code>SJ</code>
-  </SJ>
-  <SZ>
+    <code>sj</code>
+  </sj>
+  <sz>
     <name>Swaziland</name>
-    <code>SZ</code>
-  </SZ>
-  <SE>
+    <code>sz</code>
+  </sz>
+  <se>
     <name>Sweden</name>
-    <code>SE</code>
-  </SE>
-  <CH>
+    <code>se</code>
+  </se>
+  <ch>
     <name>Switzerland</name>
-    <code>CH</code>
-  </CH>
-  <SY>
+    <code>ch</code>
+  </ch>
+  <sy>
     <name>Syrian Arab Republic</name>
-    <code>SY</code>
-  </SY>
-  <TW>
+    <code>sy</code>
+  </sy>
+  <tw>
     <name>Taiwan, Province of China</name>
-    <code>TW</code>
-  </TW>
-  <TJ>
+    <code>tw</code>
+  </tw>
+  <tj>
     <name>Tajikistan</name>
-    <code>TJ</code>
-  </TJ>
-  <TZ>
+    <code>tj</code>
+  </tj>
+  <tz>
     <name>Tanzania, United Republic of</name>
-    <code>TZ</code>
-  </TZ>
-  <TH>
+    <code>tz</code>
+  </tz>
+  <th>
     <name>Thailand</name>
-    <code>TH</code>
-  </TH>
-  <TL>
+    <code>th</code>
+  </th>
+  <tl>
     <name>Timor-Leste</name>
-    <code>TL</code>
-  </TL>
-  <TG>
+    <code>tl</code>
+  </tl>
+  <tg>
     <name>Togo</name>
-    <code>TG</code>
-  </TG>
-  <TK>
+    <code>tg</code>
+  </tg>
+  <tk>
     <name>Tokelau</name>
-    <code>TK</code>
-  </TK>
-  <TO>
+    <code>tk</code>
+  </tk>
+  <to>
     <name>Tonga</name>
-    <code>TO</code>
-  </TO>
-  <TT>
+    <code>to</code>
+  </to>
+  <tt>
     <name>Trinidad and Tobago</name>
-    <code>TT</code>
-  </TT>
-  <TN>
+    <code>tt</code>
+  </tt>
+  <tn>
     <name>Tunisia</name>
-    <code>TN</code>
-  </TN>
-  <TR>
+    <code>tn</code>
+  </tn>
+  <tr>
     <name>Turkey</name>
-    <code>TR</code>
-  </TR>
-  <TM>
+    <code>tr</code>
+  </tr>
+  <tm>
     <name>Turkmenistan</name>
-    <code>TM</code>
-  </TM>
-  <TC>
+    <code>tm</code>
+  </tm>
+  <tc>
     <name>Turks and Caicos Islands</name>
-    <code>TC</code>
-  </TC>
-  <TV>
+    <code>tc</code>
+  </tc>
+  <tv>
     <name>Tuvalu</name>
-    <code>TV</code>
-  </TV>
-  <UG>
+    <code>tv</code>
+  </tv>
+  <ug>
     <name>Uganda</name>
-    <code>UG</code>
-  </UG>
-  <UA>
+    <code>ug</code>
+  </ug>
+  <ua>
     <name>Ukraine</name>
-    <code>UA</code>
-  </UA>
-  <AE>
+    <code>ua</code>
+  </ua>
+  <ae>
     <name>United Arab Emirates</name>
-    <code>AE</code>
-  </AE>
-  <GB>
+    <code>ae</code>
+  </ae>
+  <gb>
     <name>United Kingdom</name>
-    <code>GB</code>
-  </GB>
-  <US>
+    <code>gb</code>
+  </gb>
+  <us>
     <name>United States</name>
-    <code>US</code>
-  </US>
-  <UM>
+    <code>us</code>
+  </us>
+  <um>
     <name>United States Minor Outlying Islands</name>
-    <code>UM</code>
-  </UM>
-  <UY>
+    <code>um</code>
+  </um>
+  <uy>
     <name>Uruguay</name>
-    <code>UY</code>
-  </UY>
-  <UZ>
+    <code>uy</code>
+  </uy>
+  <uz>
     <name>Uzbekistan</name>
-    <code>UZ</code>
-  </UZ>
-  <VU>
+    <code>uz</code>
+  </uz>
+  <vu>
     <name>Vanuatu</name>
-    <code>VU</code>
-  </VU>
-  <VE>
+    <code>vu</code>
+  </vu>
+  <ve>
     <name>Venezuela</name>
-    <code>VE</code>
-  </VE>
-  <VN>
+    <code>ve</code>
+  </ve>
+  <vn>
     <name>Viet Nam</name>
-    <code>VN</code>
-  </VN>
-  <VG>
+    <code>vn</code>
+  </vn>
+  <vg>
     <name>Virgin Islands, British</name>
-    <code>VG</code>
-  </VG>
-  <VI>
+    <code>vg</code>
+  </vg>
+  <vi>
     <name>Virgin Islands, U.S.</name>
-    <code>VI</code>
-  </VI>
-  <WF>
+    <code>vi</code>
+  </vi>
+  <wf>
     <name>Wallis and Futuna</name>
-    <code>WF</code>
-  </WF>
-  <EH>
+    <code>wf</code>
+  </wf>
+  <eh>
     <name>Western Sahara</name>
-    <code>EH</code>
-  </EH>
-  <YE>
+    <code>eh</code>
+  </eh>
+  <ye>
     <name>Yemen</name>
-    <code>YE</code>
-  </YE>
-  <ZM>
+    <code>ye</code>
+  </ye>
+  <zm>
     <name>Zambia</name>
-    <code>ZM</code>
-  </ZM>
-  <ZW>
+    <code>zm</code>
+  </zm>
+  <zw>
     <name>Zimbabwe</name>
-    <code>ZW</code>
-  </ZW>
+    <code>zw</code>
+  </zw>
 </countries>
