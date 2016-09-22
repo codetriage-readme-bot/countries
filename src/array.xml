@@ -3,973 +3,1216 @@
   <country>
     <name>Afghanistan</name>
     <code>af</code>
+    <currency>afn</currency>
   </country>
   <country>
     <name>&#xC5;land Islands</name>
     <code>ax</code>
+    <currency>eur</currency>
   </country>
   <country>
     <name>Albania</name>
     <code>al</code>
+    <currency>all</currency>
   </country>
   <country>
     <name>Algeria</name>
     <code>dz</code>
+    <currency>dzd</currency>
   </country>
   <country>
     <name>American Samoa</name>
     <code>as</code>
+    <currency>usd</currency>
   </country>
   <country>
     <name>AndorrA</name>
     <code>ad</code>
+    <currency>eur</currency>
   </country>
   <country>
     <name>Angola</name>
     <code>ao</code>
+    <currency>aoa</currency>
   </country>
   <country>
     <name>Anguilla</name>
     <code>ai</code>
+    <currency>xcd</currency>
   </country>
   <country>
     <name>Antarctica</name>
     <code>aq</code>
+    <currency>usd</currency>
   </country>
   <country>
     <name>Antigua and Barbuda</name>
     <code>ag</code>
+    <currency>xcd</currency>
   </country>
   <country>
     <name>Argentina</name>
     <code>ar</code>
+    <currency>ars</currency>
   </country>
   <country>
     <name>Armenia</name>
     <code>am</code>
+    <currency>amd</currency>
   </country>
   <country>
     <name>Aruba</name>
     <code>aw</code>
+    <currency>awg</currency>
   </country>
   <country>
     <name>Australia</name>
     <code>au</code>
+    <currency>aud</currency>
   </country>
   <country>
     <name>Austria</name>
     <code>at</code>
+    <currency>eur</currency>
   </country>
   <country>
     <name>Azerbaijan</name>
     <code>az</code>
+    <currency>azn</currency>
   </country>
   <country>
     <name>Bahamas</name>
     <code>bs</code>
+    <currency>bsd</currency>
   </country>
   <country>
     <name>Bahrain</name>
     <code>bh</code>
+    <currency>bhd</currency>
   </country>
   <country>
     <name>Bangladesh</name>
     <code>bd</code>
+    <currency>bdt</currency>
   </country>
   <country>
     <name>Barbados</name>
     <code>bb</code>
+    <currency>bbd</currency>
   </country>
   <country>
     <name>Belarus</name>
     <code>by</code>
+    <currency>byr</currency>
   </country>
   <country>
     <name>Belgium</name>
     <code>be</code>
+    <currency>eur</currency>
   </country>
   <country>
     <name>Belize</name>
     <code>bz</code>
+    <currency>bzd</currency>
   </country>
   <country>
     <name>Benin</name>
     <code>bj</code>
+    <currency>xof</currency>
   </country>
   <country>
     <name>Bermuda</name>
     <code>bm</code>
+    <currency>bmd</currency>
   </country>
   <country>
     <name>Bhutan</name>
     <code>bt</code>
+    <currency>btn</currency>
   </country>
   <country>
     <name>Bolivia</name>
     <code>bo</code>
+    <currency>bob</currency>
   </country>
   <country>
     <name>Bosnia and Herzegovina</name>
     <code>ba</code>
+    <currency>bam</currency>
   </country>
   <country>
     <name>Botswana</name>
     <code>bw</code>
+    <currency>bwp</currency>
   </country>
   <country>
     <name>Bouvet Island</name>
     <code>bv</code>
+    <currency>nok</currency>
   </country>
   <country>
     <name>Brazil</name>
     <code>br</code>
+    <currency>brl</currency>
   </country>
   <country>
     <name>British Indian Ocean Territory</name>
     <code>io</code>
+    <currency>usd</currency>
   </country>
   <country>
     <name>Brunei Darussalam</name>
     <code>bn</code>
+    <currency>bnd</currency>
   </country>
   <country>
     <name>Bulgaria</name>
     <code>bg</code>
+    <currency>bgn</currency>
   </country>
   <country>
     <name>Burkina Faso</name>
     <code>bf</code>
+    <currency>xof</currency>
   </country>
   <country>
     <name>Burundi</name>
     <code>bi</code>
+    <currency>bif</currency>
   </country>
   <country>
     <name>Cambodia</name>
     <code>kh</code>
+    <currency>khr</currency>
   </country>
   <country>
     <name>Cameroon</name>
     <code>cm</code>
+    <currency>xaf</currency>
   </country>
   <country>
     <name>Canada</name>
     <code>ca</code>
+    <currency>cad</currency>
   </country>
   <country>
     <name>Cape Verde</name>
     <code>cv</code>
+    <currency>cve</currency>
   </country>
   <country>
     <name>Cayman Islands</name>
     <code>ky</code>
+    <currency>kyd</currency>
   </country>
   <country>
     <name>Central African Republic</name>
     <code>cf</code>
+    <currency>xaf</currency>
   </country>
   <country>
     <name>Chad</name>
     <code>td</code>
+    <currency>xaf</currency>
   </country>
   <country>
     <name>Chile</name>
     <code>cl</code>
+    <currency>clp</currency>
   </country>
   <country>
     <name>China</name>
     <code>cn</code>
+    <currency>cny</currency>
   </country>
   <country>
     <name>Christmas Island</name>
     <code>cx</code>
+    <currency>aud</currency>
   </country>
   <country>
     <name>Cocos (Keeling) Islands</name>
     <code>cc</code>
+    <currency>aud</currency>
   </country>
   <country>
     <name>Colombia</name>
     <code>co</code>
+    <currency>cop</currency>
   </country>
   <country>
     <name>Comoros</name>
     <code>km</code>
+    <currency>kmf</currency>
   </country>
   <country>
     <name>Congo</name>
     <code>cg</code>
+    <currency>xaf</currency>
   </country>
   <country>
     <name>Congo, The Democratic Republic of the</name>
     <code>cd</code>
+    <currency>cdf</currency>
   </country>
   <country>
     <name>Cook Islands</name>
     <code>ck</code>
+    <currency>nzd</currency>
   </country>
   <country>
     <name>Costa Rica</name>
     <code>cr</code>
+    <currency>crc</currency>
   </country>
   <country>
     <name>Cote D"Ivoire</name>
     <code>ci</code>
+    <currency>xof</currency>
   </country>
   <country>
     <name>Croatia</name>
     <code>hr</code>
+    <currency>hrk</currency>
   </country>
   <country>
     <name>Cuba</name>
     <code>cu</code>
+    <currency>cup</currency>
   </country>
   <country>
     <name>Cyprus</name>
     <code>cy</code>
+    <currency>eur</currency>
   </country>
   <country>
     <name>Czech Republic</name>
     <code>cz</code>
+    <currency>czk</currency>
   </country>
   <country>
     <name>Denmark</name>
     <code>dk</code>
+    <currency>dkk</currency>
   </country>
   <country>
     <name>Djibouti</name>
     <code>dj</code>
+    <currency>djf</currency>
   </country>
   <country>
     <name>Dominica</name>
     <code>dm</code>
+    <currency>xcd</currency>
   </country>
   <country>
     <name>Dominican Republic</name>
     <code>do</code>
+    <currency>dop</currency>
   </country>
   <country>
     <name>Ecuador</name>
     <code>ec</code>
+    <currency>usd</currency>
   </country>
   <country>
     <name>Egypt</name>
     <code>eg</code>
+    <currency>egp</currency>
   </country>
   <country>
     <name>El Salvador</name>
     <code>sv</code>
+    <currency>usd</currency>
   </country>
   <country>
     <name>Equatorial Guinea</name>
     <code>gq</code>
+    <currency>xaf</currency>
   </country>
   <country>
     <name>Eritrea</name>
     <code>er</code>
+    <currency>ern</currency>
   </country>
   <country>
     <name>Estonia</name>
     <code>ee</code>
+    <currency>eur</currency>
   </country>
   <country>
     <name>Ethiopia</name>
     <code>et</code>
+    <currency>etb</currency>
   </country>
   <country>
     <name>Falkland Islands (Malvinas)</name>
     <code>fk</code>
+    <currency>fkp</currency>
   </country>
   <country>
     <name>Faroe Islands</name>
     <code>fo</code>
+    <currency>dkk</currency>
   </country>
   <country>
     <name>Fiji</name>
     <code>fj</code>
+    <currency>fjd</currency>
   </country>
   <country>
     <name>Finland</name>
     <code>fi</code>
+    <currency>eur</currency>
   </country>
   <country>
     <name>France</name>
     <code>fr</code>
+    <currency>eur</currency>
   </country>
   <country>
     <name>French Guiana</name>
     <code>gf</code>
+    <currency>eur</currency>
   </country>
   <country>
     <name>French Polynesia</name>
     <code>pf</code>
+    <currency>xpf</currency>
   </country>
   <country>
     <name>French Southern Territories</name>
     <code>tf</code>
+    <currency>eur</currency>
   </country>
   <country>
     <name>Gabon</name>
     <code>ga</code>
+    <currency>xaf</currency>
   </country>
   <country>
     <name>Gambia</name>
     <code>gm</code>
+    <currency>gmd</currency>
   </country>
   <country>
     <name>Georgia</name>
     <code>ge</code>
+    <currency>gel</currency>
   </country>
   <country>
     <name>Germany</name>
     <code>de</code>
+    <currency>eur</currency>
   </country>
   <country>
     <name>Ghana</name>
     <code>gh</code>
+    <currency>ghs</currency>
   </country>
   <country>
     <name>Gibraltar</name>
     <code>gi</code>
+    <currency>gip</currency>
   </country>
   <country>
     <name>Greece</name>
     <code>gr</code>
+    <currency>eur</currency>
   </country>
   <country>
     <name>Greenland</name>
     <code>gl</code>
+    <currency>dkk</currency>
   </country>
   <country>
     <name>Grenada</name>
     <code>gd</code>
+    <currency>xcd</currency>
   </country>
   <country>
     <name>Guadeloupe</name>
     <code>gp</code>
+    <currency>eur</currency>
   </country>
   <country>
     <name>Guam</name>
     <code>gu</code>
+    <currency>usd</currency>
   </country>
   <country>
     <name>Guatemala</name>
     <code>gt</code>
+    <currency>gtq</currency>
   </country>
   <country>
     <name>Guernsey</name>
     <code>gg</code>
+    <currency>gbp</currency>
   </country>
   <country>
     <name>Guinea</name>
     <code>gn</code>
+    <currency>gnf</currency>
   </country>
   <country>
     <name>Guinea-Bissau</name>
     <code>gw</code>
+    <currency>xof</currency>
   </country>
   <country>
     <name>Guyana</name>
     <code>gy</code>
+    <currency>gyd</currency>
   </country>
   <country>
     <name>Haiti</name>
     <code>ht</code>
+    <currency>htg</currency>
   </country>
   <country>
     <name>Heard Island and Mcdonald Islands</name>
     <code>hm</code>
+    <currency>aud</currency>
   </country>
   <country>
     <name>Holy See (Vatican City State)</name>
     <code>va</code>
+    <currency>eur</currency>
   </country>
   <country>
     <name>Honduras</name>
     <code>hn</code>
+    <currency>hnl</currency>
   </country>
   <country>
     <name>Hong Kong</name>
     <code>hk</code>
+    <currency>hkd</currency>
   </country>
   <country>
     <name>Hungary</name>
     <code>hu</code>
+    <currency>huf</currency>
   </country>
   <country>
     <name>Iceland</name>
     <code>is</code>
+    <currency>isk</currency>
   </country>
   <country>
     <name>India</name>
     <code>in</code>
+    <currency>inr</currency>
   </country>
   <country>
     <name>Indonesia</name>
     <code>id</code>
+    <currency>idr</currency>
   </country>
   <country>
     <name>Iran, Islamic Republic Of</name>
     <code>ir</code>
+    <currency>irr</currency>
   </country>
   <country>
     <name>Iraq</name>
     <code>iq</code>
+    <currency>iqd</currency>
   </country>
   <country>
     <name>Ireland</name>
     <code>ie</code>
+    <currency>eur</currency>
   </country>
   <country>
     <name>Isle of Man</name>
     <code>im</code>
+    <currency>gbp</currency>
   </country>
   <country>
     <name>Israel</name>
     <code>il</code>
+    <currency>ils</currency>
   </country>
   <country>
     <name>Italy</name>
     <code>it</code>
+    <currency>eur</currency>
   </country>
   <country>
     <name>Jamaica</name>
     <code>jm</code>
+    <currency>jmd</currency>
   </country>
   <country>
     <name>Japan</name>
     <code>jp</code>
+    <currency>jpy</currency>
   </country>
   <country>
     <name>Jersey</name>
     <code>je</code>
+    <currency>gbp</currency>
   </country>
   <country>
     <name>Jordan</name>
     <code>jo</code>
+    <currency>jod</currency>
   </country>
   <country>
     <name>Kazakhstan</name>
     <code>kz</code>
+    <currency>kzt</currency>
   </country>
   <country>
     <name>Kenya</name>
     <code>ke</code>
+    <currency>kes</currency>
   </country>
   <country>
     <name>Kiribati</name>
     <code>ki</code>
+    <currency>aud</currency>
   </country>
   <country>
     <name>Korea, Democratic People"S Republic of</name>
     <code>kp</code>
+    <currency>kpw</currency>
   </country>
   <country>
     <name>Korea, Republic of</name>
     <code>kr</code>
+    <currency>krw</currency>
   </country>
   <country>
     <name>Kuwait</name>
     <code>kw</code>
+    <currency>kwd</currency>
   </country>
   <country>
     <name>Kyrgyzstan</name>
     <code>kg</code>
+    <currency>kgs</currency>
   </country>
   <country>
     <name>Lao People"S Democratic Republic</name>
     <code>la</code>
+    <currency>lak</currency>
   </country>
   <country>
     <name>Latvia</name>
     <code>lv</code>
+    <currency>eur</currency>
   </country>
   <country>
     <name>Lebanon</name>
     <code>lb</code>
+    <currency>lbp</currency>
   </country>
   <country>
     <name>Lesotho</name>
     <code>ls</code>
+    <currency>lsl</currency>
   </country>
   <country>
     <name>Liberia</name>
     <code>lr</code>
+    <currency>lrd</currency>
   </country>
   <country>
     <name>Libyan Arab Jamahiriya</name>
     <code>ly</code>
+    <currency>lyd</currency>
   </country>
   <country>
     <name>Liechtenstein</name>
     <code>li</code>
+    <currency>chf</currency>
   </country>
   <country>
     <name>Lithuania</name>
     <code>lt</code>
+    <currency>ltl</currency>
   </country>
   <country>
     <name>Luxembourg</name>
     <code>lu</code>
+    <currency>eur</currency>
   </country>
   <country>
     <name>Macao</name>
     <code>mo</code>
+    <currency>mop</currency>
   </country>
   <country>
     <name>Macedonia, The Former Yugoslav Republic of</name>
     <code>mk</code>
+    <currency>mkd</currency>
   </country>
   <country>
     <name>Madagascar</name>
     <code>mg</code>
+    <currency>mga</currency>
   </country>
   <country>
     <name>Malawi</name>
     <code>mw</code>
+    <currency>mwk</currency>
   </country>
   <country>
     <name>Malaysia</name>
     <code>my</code>
+    <currency>myr</currency>
   </country>
   <country>
     <name>Maldives</name>
     <code>mv</code>
+    <currency>mvr</currency>
   </country>
   <country>
     <name>Mali</name>
     <code>ml</code>
+    <currency>xof</currency>
   </country>
   <country>
     <name>Malta</name>
     <code>mt</code>
+    <currency>eur</currency>
   </country>
   <country>
     <name>Marshall Islands</name>
     <code>mh</code>
+    <currency>usd</currency>
   </country>
   <country>
     <name>Martinique</name>
     <code>mq</code>
+    <currency>eur</currency>
   </country>
   <country>
     <name>Mauritania</name>
     <code>mr</code>
+    <currency>mro</currency>
   </country>
   <country>
     <name>Mauritius</name>
     <code>mu</code>
+    <currency>mur</currency>
   </country>
   <country>
     <name>Mayotte</name>
     <code>yt</code>
+    <currency>eur</currency>
   </country>
   <country>
     <name>Mexico</name>
     <code>mx</code>
+    <currency>mxn</currency>
   </country>
   <country>
     <name>Micronesia, Federated States of</name>
     <code>fm</code>
+    <currency>usd</currency>
   </country>
   <country>
     <name>Moldova, Republic of</name>
     <code>md</code>
+    <currency>mdl</currency>
   </country>
   <country>
     <name>Monaco</name>
     <code>mc</code>
+    <currency>eur</currency>
   </country>
   <country>
     <name>Mongolia</name>
     <code>mn</code>
+    <currency>mnt</currency>
   </country>
   <country>
     <name>Montserrat</name>
     <code>ms</code>
+    <currency>xcd</currency>
   </country>
   <country>
     <name>Morocco</name>
     <code>ma</code>
+    <currency>mad</currency>
   </country>
   <country>
     <name>Mozambique</name>
     <code>mz</code>
+    <currency>mzn</currency>
   </country>
   <country>
     <name>Myanmar</name>
     <code>mm</code>
+    <currency>mmk</currency>
   </country>
   <country>
     <name>Namibia</name>
     <code>na</code>
+    <currency>nad</currency>
   </country>
   <country>
     <name>Nauru</name>
     <code>nr</code>
+    <currency>aud</currency>
   </country>
   <country>
     <name>Nepal</name>
     <code>np</code>
+    <currency>npr</currency>
   </country>
   <country>
     <name>Netherlands</name>
     <code>nl</code>
+    <currency>eur</currency>
   </country>
   <country>
     <name>Netherlands Antilles</name>
     <code>an</code>
+    <currency>ang</currency>
   </country>
   <country>
     <name>New Caledonia</name>
     <code>nc</code>
+    <currency>xpf</currency>
   </country>
   <country>
     <name>New Zealand</name>
     <code>nz</code>
+    <currency>nzd</currency>
   </country>
   <country>
     <name>Nicaragua</name>
     <code>ni</code>
+    <currency>nio</currency>
   </country>
   <country>
     <name>Niger</name>
     <code>ne</code>
+    <currency>xof</currency>
   </country>
   <country>
     <name>Nigeria</name>
     <code>ng</code>
+    <currency>ngn</currency>
   </country>
   <country>
     <name>Niue</name>
     <code>nu</code>
+    <currency>nzd</currency>
   </country>
   <country>
     <name>Norfolk Island</name>
     <code>nf</code>
+    <currency>aud</currency>
   </country>
   <country>
     <name>Northern Mariana Islands</name>
     <code>mp</code>
+    <currency>usd</currency>
   </country>
   <country>
     <name>Norway</name>
     <code>no</code>
+    <currency>nok</currency>
   </country>
   <country>
     <name>Oman</name>
     <code>om</code>
+    <currency>omr</currency>
   </country>
   <country>
     <name>Pakistan</name>
     <code>pk</code>
+    <currency>pkr</currency>
   </country>
   <country>
     <name>Palau</name>
     <code>pw</code>
+    <currency>usd</currency>
   </country>
   <country>
     <name>Palestinian Territory, Occupied</name>
     <code>ps</code>
+    <currency>ils</currency>
   </country>
   <country>
     <name>Panama</name>
     <code>pa</code>
+    <currency>pab</currency>
   </country>
   <country>
     <name>Papua New Guinea</name>
     <code>pg</code>
+    <currency>pgk</currency>
   </country>
   <country>
     <name>Paraguay</name>
     <code>py</code>
+    <currency>pyg</currency>
   </country>
   <country>
     <name>Peru</name>
     <code>pe</code>
+    <currency>pen</currency>
   </country>
   <country>
     <name>Philippines</name>
     <code>ph</code>
+    <currency>php</currency>
   </country>
   <country>
     <name>Pitcairn</name>
     <code>pn</code>
+    <currency>nzd</currency>
   </country>
   <country>
     <name>Poland</name>
     <code>pl</code>
+    <currency>pln</currency>
   </country>
   <country>
     <name>Portugal</name>
     <code>pt</code>
+    <currency>eur</currency>
   </country>
   <country>
     <name>Puerto Rico</name>
     <code>pr</code>
+    <currency>usd</currency>
   </country>
   <country>
     <name>Qatar</name>
     <code>qa</code>
+    <currency>qar</currency>
   </country>
   <country>
     <name>Reunion</name>
     <code>re</code>
+    <currency>eur</currency>
   </country>
   <country>
     <name>Romania</name>
     <code>ro</code>
+    <currency>ron</currency>
   </country>
   <country>
     <name>Russian Federation</name>
     <code>ru</code>
+    <currency>rub</currency>
   </country>
   <country>
     <name>RWANDA</name>
     <code>rw</code>
+    <currency>rwf</currency>
   </country>
   <country>
     <name>Saint Helena</name>
     <code>sh</code>
+    <currency>shp</currency>
   </country>
   <country>
     <name>Saint Kitts and Nevis</name>
     <code>kn</code>
+    <currency>xcd</currency>
   </country>
   <country>
     <name>Saint Lucia</name>
     <code>lc</code>
+    <currency>xcd</currency>
   </country>
   <country>
     <name>Saint Pierre and Miquelon</name>
     <code>pm</code>
+    <currency>eur</currency>
   </country>
   <country>
     <name>Saint Vincent and the Grenadines</name>
     <code>vc</code>
+    <currency>xcd</currency>
   </country>
   <country>
     <name>Samoa</name>
     <code>ws</code>
+    <currency>wst</currency>
   </country>
   <country>
     <name>San Marino</name>
     <code>sm</code>
+    <currency>eur</currency>
   </country>
   <country>
     <name>Sao Tome and Principe</name>
     <code>st</code>
+    <currency>std</currency>
   </country>
   <country>
     <name>Saudi Arabia</name>
     <code>sa</code>
+    <currency>sar</currency>
   </country>
   <country>
     <name>Senegal</name>
     <code>sn</code>
+    <currency>xof</currency>
   </country>
   <country>
     <name>Serbia and Montenegro</name>
     <code>cs</code>
+    <currency>eur</currency>
   </country>
   <country>
     <name>Seychelles</name>
     <code>sc</code>
+    <currency>scr</currency>
   </country>
   <country>
     <name>Sierra Leone</name>
     <code>sl</code>
+    <currency>sll</currency>
   </country>
   <country>
     <name>Singapore</name>
     <code>sg</code>
+    <currency>sgd</currency>
   </country>
   <country>
     <name>Slovakia</name>
     <code>sk</code>
+    <currency>eur</currency>
   </country>
   <country>
     <name>Slovenia</name>
     <code>si</code>
+    <currency>eur</currency>
   </country>
   <country>
     <name>Solomon Islands</name>
     <code>sb</code>
+    <currency>sbd</currency>
   </country>
   <country>
     <name>Somalia</name>
     <code>so</code>
+    <currency>sos</currency>
   </country>
   <country>
     <name>South Africa</name>
     <code>za</code>
+    <currency>zar</currency>
   </country>
   <country>
     <name>South Georgia and the South Sandwich Islands</name>
     <code>gs</code>
+    <currency>gbp</currency>
   </country>
   <country>
     <name>Spain</name>
     <code>es</code>
+    <currency>eur</currency>
   </country>
   <country>
     <name>Sri Lanka</name>
     <code>lk</code>
+    <currency>lkr</currency>
   </country>
   <country>
     <name>Sudan</name>
     <code>sd</code>
+    <currency>sdg</currency>
   </country>
   <country>
     <name>Suriname</name>
     <code>sr</code>
+    <currency>srd</currency>
   </country>
   <country>
     <name>Svalbard and Jan Mayen</name>
     <code>sj</code>
+    <currency>nok</currency>
   </country>
   <country>
     <name>Swaziland</name>
     <code>sz</code>
+    <currency>szl</currency>
   </country>
   <country>
     <name>Sweden</name>
     <code>se</code>
+    <currency>sek</currency>
   </country>
   <country>
     <name>Switzerland</name>
     <code>ch</code>
+    <currency>chf</currency>
   </country>
   <country>
     <name>Syrian Arab Republic</name>
     <code>sy</code>
+    <currency>syp</currency>
   </country>
   <country>
     <name>Taiwan, Province of China</name>
     <code>tw</code>
+    <currency>twd</currency>
   </country>
   <country>
     <name>Tajikistan</name>
     <code>tj</code>
+    <currency>tjs</currency>
   </country>
   <country>
     <name>Tanzania, United Republic of</name>
     <code>tz</code>
+    <currency>tzs</currency>
   </country>
   <country>
     <name>Thailand</name>
     <code>th</code>
+    <currency>thb</currency>
   </country>
   <country>
     <name>Timor-Leste</name>
     <code>tl</code>
+    <currency>usd</currency>
   </country>
   <country>
     <name>Togo</name>
     <code>tg</code>
+    <currency>xof</currency>
   </country>
   <country>
     <name>Tokelau</name>
     <code>tk</code>
+    <currency>nzd</currency>
   </country>
   <country>
     <name>Tonga</name>
     <code>to</code>
+    <currency>top</currency>
   </country>
   <country>
     <name>Trinidad and Tobago</name>
     <code>tt</code>
+    <currency>ttd</currency>
   </country>
   <country>
     <name>Tunisia</name>
     <code>tn</code>
+    <currency>tnd</currency>
   </country>
   <country>
     <name>Turkey</name>
     <code>tr</code>
+    <currency>try</currency>
   </country>
   <country>
     <name>Turkmenistan</name>
     <code>tm</code>
+    <currency>tmt</currency>
   </country>
   <country>
     <name>Turks and Caicos Islands</name>
     <code>tc</code>
+    <currency>usd</currency>
   </country>
   <country>
     <name>Tuvalu</name>
     <code>tv</code>
+    <currency>aud</currency>
   </country>
   <country>
     <name>Uganda</name>
     <code>ug</code>
+    <currency>ugx</currency>
   </country>
   <country>
     <name>Ukraine</name>
     <code>ua</code>
+    <currency>uah</currency>
   </country>
   <country>
     <name>United Arab Emirates</name>
     <code>ae</code>
+    <currency>aed</currency>
   </country>
   <country>
     <name>United Kingdom</name>
     <code>gb</code>
+    <currency>gbp</currency>
   </country>
   <country>
     <name>United States</name>
     <code>us</code>
+    <currency>usd</currency>
   </country>
   <country>
     <name>United States Minor Outlying Islands</name>
     <code>um</code>
+    <currency>usd</currency>
   </country>
   <country>
     <name>Uruguay</name>
     <code>uy</code>
+    <currency>uyu</currency>
   </country>
   <country>
     <name>Uzbekistan</name>
     <code>uz</code>
+    <currency>uzs</currency>
   </country>
   <country>
     <name>Vanuatu</name>
     <code>vu</code>
+    <currency>vuv</currency>
   </country>
   <country>
     <name>Venezuela</name>
     <code>ve</code>
+    <currency>vef</currency>
   </country>
   <country>
     <name>Viet Nam</name>
     <code>vn</code>
+    <currency>vnd</currency>
   </country>
   <country>
     <name>Virgin Islands, British</name>
     <code>vg</code>
+    <currency>usd</currency>
   </country>
   <country>
     <name>Virgin Islands, U.S.</name>
     <code>vi</code>
+    <currency>usd</currency>
   </country>
   <country>
     <name>Wallis and Futuna</name>
     <code>wf</code>
+    <currency>xpf</currency>
   </country>
   <country>
     <name>Western Sahara</name>
     <code>eh</code>
+    <currency>mad</currency>
   </country>
   <country>
     <name>Yemen</name>
     <code>ye</code>
+    <currency>yer</currency>
   </country>
   <country>
     <name>Zambia</name>
     <code>zm</code>
+    <currency>zmk</currency>
   </country>
   <country>
     <name>Zimbabwe</name>
     <code>zw</code>
+    <currency>zwl</currency>
   </country>
 </countries>
