@@ -28,7 +28,6 @@ bower install countrylist
 * Continents
 * ISO code
 * Capital
-* Currency
 * Phone code
 * Languages
 * Population
